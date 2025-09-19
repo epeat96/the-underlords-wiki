@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: about
+title : About
 
 ---
 
